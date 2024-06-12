@@ -7,23 +7,25 @@
 Our app is useful for people who wants to learn flutter mobile development, we have made a "google maps" and we take the weather from London city
 
 ## Screenshots
-![image](https://github.com/alex28042/maps/assets/73026276/656f3368-155f-45e5-975c-5981d0d60f47)
+
+![image](https://github.com/alex28042/flutter-app/assets/73026276/1b540f8a-3032-4af7-8cdd-80e9ff6ab690)
+
 
 Init screen or main activity
 
-![image](https://github.com/alex28042/maps/assets/73026276/8fbf527d-fc0d-49df-b308-406f5aab91b3)
+![image](https://github.com/alex28042/flutter-app/assets/73026276/fdd18ce8-42c4-4219-b8f2-f59de8e68a2f)
 
 Maps with the routes
 
-![image](https://github.com/alex28042/maps/assets/73026276/b7fb1acb-cd97-42e1-b3ff-9b9cd9e73b09)
+![image](https://github.com/alex28042/flutter-app/assets/73026276/a52509e4-b86b-4a73-9504-0945bf3e375a)
 
 File csv with different locations where the app was opened
 
-![image](https://github.com/alex28042/maps/assets/73026276/cb1697d0-71d9-42dd-a2de-25f816e8e4b0)
+![image](https://github.com/alex28042/flutter-app/assets/73026276/349c223e-87de-45b0-8e2c-a19404b9787e)
 
-Weather from 20 cities
+Weather from London
 
-![image](https://github.com/alex28042/maps/assets/73026276/c925d477-c749-4317-9b0f-77838f308ac4)
+![image](https://github.com/alex28042/flutter-app/assets/73026276/38311329-e553-4401-8b74-fe5e8d7e6ae3)
 
 list with the locations stored in room database
 
